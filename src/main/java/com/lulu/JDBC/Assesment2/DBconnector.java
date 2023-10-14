@@ -32,7 +32,7 @@ public class DBconnector {
 
  
 
-         connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/fashion", "root", "Lajibolala@1607");
+         connection = DriverManager.getConnection("mypath", "root", "");
 
  
 
